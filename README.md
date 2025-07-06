@@ -27,7 +27,5 @@ The contract was manually reviewed and tested using security analysis tools like
 
 - [Slither](https://github.com/crytic/slither)
 - [Mythril](https://github.com/ConsenSys/mythril)
-- Manual inspection
-
-## 📁 Directory Structure
+- Manual review
 
